@@ -1,0 +1,8 @@
+/* Ensure this is the very first line in styles.css or styles.scss */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+/* Other CSS rules can follow below the import */
+.mat-ripple {
+  overflow: hidden;
+  position: relative;
+}
