@@ -1,4 +1,4 @@
 # myappointment
  Angular-Crud Operation 
- It Contains Local Storage For Login Fucntionality
+ It Contains Local Storage For Login Functionality
  
